@@ -44,7 +44,7 @@ namespace PrototypeDP
 
         public void DisplayDetails()
         {
-            Console.WriteLine($"Name of the car is {Name}, and it's price is {Price}");
+            Console.WriteLine($"Name of the car is {Name}, and it's price is {Price}\n");
         }
     }
 
@@ -91,7 +91,7 @@ namespace PrototypeDP
 
         public void DisplayDetails()
         {
-            Console.WriteLine($"Name of the animal is {Name}, and it's age is {Age}");
+            Console.WriteLine($"Name of the animal is {Name}, and it's age is {Age}\n");
         }
 
     }

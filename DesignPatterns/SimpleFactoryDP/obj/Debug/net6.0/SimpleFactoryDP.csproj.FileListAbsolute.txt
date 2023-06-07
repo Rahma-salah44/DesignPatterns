@@ -1,0 +1,15 @@
+D:\Courses\DesignPatterns\DesignPatterns\SimpleFactoryDP\bin\Debug\net6.0\SimpleFactoryDP.exe
+D:\Courses\DesignPatterns\DesignPatterns\SimpleFactoryDP\bin\Debug\net6.0\SimpleFactoryDP.deps.json
+D:\Courses\DesignPatterns\DesignPatterns\SimpleFactoryDP\bin\Debug\net6.0\SimpleFactoryDP.runtimeconfig.json
+D:\Courses\DesignPatterns\DesignPatterns\SimpleFactoryDP\bin\Debug\net6.0\SimpleFactoryDP.dll
+D:\Courses\DesignPatterns\DesignPatterns\SimpleFactoryDP\bin\Debug\net6.0\SimpleFactoryDP.pdb
+D:\Courses\DesignPatterns\DesignPatterns\SimpleFactoryDP\obj\Debug\net6.0\SimpleFactoryDP.csproj.AssemblyReference.cache
+D:\Courses\DesignPatterns\DesignPatterns\SimpleFactoryDP\obj\Debug\net6.0\SimpleFactoryDP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\DesignPatterns\DesignPatterns\SimpleFactoryDP\obj\Debug\net6.0\SimpleFactoryDP.AssemblyInfoInputs.cache
+D:\Courses\DesignPatterns\DesignPatterns\SimpleFactoryDP\obj\Debug\net6.0\SimpleFactoryDP.AssemblyInfo.cs
+D:\Courses\DesignPatterns\DesignPatterns\SimpleFactoryDP\obj\Debug\net6.0\SimpleFactoryDP.csproj.CoreCompileInputs.cache
+D:\Courses\DesignPatterns\DesignPatterns\SimpleFactoryDP\obj\Debug\net6.0\SimpleFactoryDP.dll
+D:\Courses\DesignPatterns\DesignPatterns\SimpleFactoryDP\obj\Debug\net6.0\refint\SimpleFactoryDP.dll
+D:\Courses\DesignPatterns\DesignPatterns\SimpleFactoryDP\obj\Debug\net6.0\SimpleFactoryDP.pdb
+D:\Courses\DesignPatterns\DesignPatterns\SimpleFactoryDP\obj\Debug\net6.0\SimpleFactoryDP.genruntimeconfig.cache
+D:\Courses\DesignPatterns\DesignPatterns\SimpleFactoryDP\obj\Debug\net6.0\ref\SimpleFactoryDP.dll
