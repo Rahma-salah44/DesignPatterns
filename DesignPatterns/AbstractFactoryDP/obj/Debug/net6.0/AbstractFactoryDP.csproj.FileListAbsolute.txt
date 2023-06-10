@@ -1,0 +1,15 @@
+D:\Courses\DesignPatterns\DesignPatterns\AbstractFactoryDP\obj\Debug\net6.0\AbstractFactoryDP.csproj.AssemblyReference.cache
+D:\Courses\DesignPatterns\DesignPatterns\AbstractFactoryDP\obj\Debug\net6.0\AbstractFactoryDP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\DesignPatterns\DesignPatterns\AbstractFactoryDP\obj\Debug\net6.0\AbstractFactoryDP.AssemblyInfoInputs.cache
+D:\Courses\DesignPatterns\DesignPatterns\AbstractFactoryDP\obj\Debug\net6.0\AbstractFactoryDP.AssemblyInfo.cs
+D:\Courses\DesignPatterns\DesignPatterns\AbstractFactoryDP\obj\Debug\net6.0\AbstractFactoryDP.csproj.CoreCompileInputs.cache
+D:\Courses\DesignPatterns\DesignPatterns\AbstractFactoryDP\bin\Debug\net6.0\AbstractFactoryDP.exe
+D:\Courses\DesignPatterns\DesignPatterns\AbstractFactoryDP\bin\Debug\net6.0\AbstractFactoryDP.deps.json
+D:\Courses\DesignPatterns\DesignPatterns\AbstractFactoryDP\bin\Debug\net6.0\AbstractFactoryDP.runtimeconfig.json
+D:\Courses\DesignPatterns\DesignPatterns\AbstractFactoryDP\bin\Debug\net6.0\AbstractFactoryDP.dll
+D:\Courses\DesignPatterns\DesignPatterns\AbstractFactoryDP\bin\Debug\net6.0\AbstractFactoryDP.pdb
+D:\Courses\DesignPatterns\DesignPatterns\AbstractFactoryDP\obj\Debug\net6.0\AbstractFactoryDP.dll
+D:\Courses\DesignPatterns\DesignPatterns\AbstractFactoryDP\obj\Debug\net6.0\refint\AbstractFactoryDP.dll
+D:\Courses\DesignPatterns\DesignPatterns\AbstractFactoryDP\obj\Debug\net6.0\AbstractFactoryDP.pdb
+D:\Courses\DesignPatterns\DesignPatterns\AbstractFactoryDP\obj\Debug\net6.0\AbstractFactoryDP.genruntimeconfig.cache
+D:\Courses\DesignPatterns\DesignPatterns\AbstractFactoryDP\obj\Debug\net6.0\ref\AbstractFactoryDP.dll
