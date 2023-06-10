@@ -1,0 +1,15 @@
+D:\Courses\DesignPatterns\DesignPatterns\BuilderDP\obj\Debug\net6.0\BuilderDP.csproj.AssemblyReference.cache
+D:\Courses\DesignPatterns\DesignPatterns\BuilderDP\obj\Debug\net6.0\BuilderDP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\DesignPatterns\DesignPatterns\BuilderDP\obj\Debug\net6.0\BuilderDP.AssemblyInfoInputs.cache
+D:\Courses\DesignPatterns\DesignPatterns\BuilderDP\obj\Debug\net6.0\BuilderDP.AssemblyInfo.cs
+D:\Courses\DesignPatterns\DesignPatterns\BuilderDP\obj\Debug\net6.0\BuilderDP.csproj.CoreCompileInputs.cache
+D:\Courses\DesignPatterns\DesignPatterns\BuilderDP\bin\Debug\net6.0\BuilderDP.exe
+D:\Courses\DesignPatterns\DesignPatterns\BuilderDP\bin\Debug\net6.0\BuilderDP.deps.json
+D:\Courses\DesignPatterns\DesignPatterns\BuilderDP\bin\Debug\net6.0\BuilderDP.runtimeconfig.json
+D:\Courses\DesignPatterns\DesignPatterns\BuilderDP\bin\Debug\net6.0\BuilderDP.dll
+D:\Courses\DesignPatterns\DesignPatterns\BuilderDP\bin\Debug\net6.0\BuilderDP.pdb
+D:\Courses\DesignPatterns\DesignPatterns\BuilderDP\obj\Debug\net6.0\BuilderDP.dll
+D:\Courses\DesignPatterns\DesignPatterns\BuilderDP\obj\Debug\net6.0\refint\BuilderDP.dll
+D:\Courses\DesignPatterns\DesignPatterns\BuilderDP\obj\Debug\net6.0\BuilderDP.pdb
+D:\Courses\DesignPatterns\DesignPatterns\BuilderDP\obj\Debug\net6.0\BuilderDP.genruntimeconfig.cache
+D:\Courses\DesignPatterns\DesignPatterns\BuilderDP\obj\Debug\net6.0\ref\BuilderDP.dll
