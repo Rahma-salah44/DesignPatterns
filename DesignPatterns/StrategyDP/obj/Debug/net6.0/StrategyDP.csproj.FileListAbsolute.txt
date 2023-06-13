@@ -1,0 +1,15 @@
+D:\Courses\DesignPatterns\DesignPatterns\StrategyDP\obj\Debug\net6.0\StrategyDP.csproj.AssemblyReference.cache
+D:\Courses\DesignPatterns\DesignPatterns\StrategyDP\obj\Debug\net6.0\StrategyDP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\DesignPatterns\DesignPatterns\StrategyDP\obj\Debug\net6.0\StrategyDP.AssemblyInfoInputs.cache
+D:\Courses\DesignPatterns\DesignPatterns\StrategyDP\obj\Debug\net6.0\StrategyDP.AssemblyInfo.cs
+D:\Courses\DesignPatterns\DesignPatterns\StrategyDP\obj\Debug\net6.0\StrategyDP.csproj.CoreCompileInputs.cache
+D:\Courses\DesignPatterns\DesignPatterns\StrategyDP\bin\Debug\net6.0\StrategyDP.exe
+D:\Courses\DesignPatterns\DesignPatterns\StrategyDP\bin\Debug\net6.0\StrategyDP.deps.json
+D:\Courses\DesignPatterns\DesignPatterns\StrategyDP\bin\Debug\net6.0\StrategyDP.runtimeconfig.json
+D:\Courses\DesignPatterns\DesignPatterns\StrategyDP\bin\Debug\net6.0\StrategyDP.dll
+D:\Courses\DesignPatterns\DesignPatterns\StrategyDP\bin\Debug\net6.0\StrategyDP.pdb
+D:\Courses\DesignPatterns\DesignPatterns\StrategyDP\obj\Debug\net6.0\StrategyDP.dll
+D:\Courses\DesignPatterns\DesignPatterns\StrategyDP\obj\Debug\net6.0\refint\StrategyDP.dll
+D:\Courses\DesignPatterns\DesignPatterns\StrategyDP\obj\Debug\net6.0\StrategyDP.pdb
+D:\Courses\DesignPatterns\DesignPatterns\StrategyDP\obj\Debug\net6.0\StrategyDP.genruntimeconfig.cache
+D:\Courses\DesignPatterns\DesignPatterns\StrategyDP\obj\Debug\net6.0\ref\StrategyDP.dll

@@ -8,10 +8,6 @@ Robot shape;
 for (int i = 0; i < 3; i++)
 {
     shape = (Robot)myfactory.GetRobotFromFactory("Small");
-    /*Not required to add sleep(). But it is included to
-    increase the probability of getting a new random number
-    to see the variations in the output.*/
-    //Thread.Sleep(1000);
     shape.SetColor(getRandomColor());
     shape.Print();
 }
@@ -19,10 +15,6 @@ for (int i = 0; i < 3; i++)
 for (int i = 0; i < 3; i++)
 {
     shape = (Robot)myfactory.GetRobotFromFactory("Large");
-    /*Not required to add sleep().But it is included to
-    increase the probability of getting a new random number
-    to see the variations in the output.*/
-    //Thread.Sleep(1000);
     shape.SetColor(getRandomColor());
     shape.Print();
 }

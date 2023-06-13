@@ -1,0 +1,15 @@
+D:\Courses\DesignPatterns\DesignPatterns\InterpreterDP\bin\Debug\net6.0\InterpreterDP.exe
+D:\Courses\DesignPatterns\DesignPatterns\InterpreterDP\bin\Debug\net6.0\InterpreterDP.deps.json
+D:\Courses\DesignPatterns\DesignPatterns\InterpreterDP\bin\Debug\net6.0\InterpreterDP.runtimeconfig.json
+D:\Courses\DesignPatterns\DesignPatterns\InterpreterDP\bin\Debug\net6.0\InterpreterDP.dll
+D:\Courses\DesignPatterns\DesignPatterns\InterpreterDP\bin\Debug\net6.0\InterpreterDP.pdb
+D:\Courses\DesignPatterns\DesignPatterns\InterpreterDP\obj\Debug\net6.0\InterpreterDP.csproj.AssemblyReference.cache
+D:\Courses\DesignPatterns\DesignPatterns\InterpreterDP\obj\Debug\net6.0\InterpreterDP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\DesignPatterns\DesignPatterns\InterpreterDP\obj\Debug\net6.0\InterpreterDP.AssemblyInfoInputs.cache
+D:\Courses\DesignPatterns\DesignPatterns\InterpreterDP\obj\Debug\net6.0\InterpreterDP.AssemblyInfo.cs
+D:\Courses\DesignPatterns\DesignPatterns\InterpreterDP\obj\Debug\net6.0\InterpreterDP.csproj.CoreCompileInputs.cache
+D:\Courses\DesignPatterns\DesignPatterns\InterpreterDP\obj\Debug\net6.0\InterpreterDP.dll
+D:\Courses\DesignPatterns\DesignPatterns\InterpreterDP\obj\Debug\net6.0\refint\InterpreterDP.dll
+D:\Courses\DesignPatterns\DesignPatterns\InterpreterDP\obj\Debug\net6.0\InterpreterDP.pdb
+D:\Courses\DesignPatterns\DesignPatterns\InterpreterDP\obj\Debug\net6.0\InterpreterDP.genruntimeconfig.cache
+D:\Courses\DesignPatterns\DesignPatterns\InterpreterDP\obj\Debug\net6.0\ref\InterpreterDP.dll

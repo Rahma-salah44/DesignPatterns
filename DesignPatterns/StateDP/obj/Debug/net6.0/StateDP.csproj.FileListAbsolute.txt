@@ -1,0 +1,15 @@
+D:\Courses\DesignPatterns\DesignPatterns\StateDP\bin\Debug\net6.0\StateDP.exe
+D:\Courses\DesignPatterns\DesignPatterns\StateDP\bin\Debug\net6.0\StateDP.deps.json
+D:\Courses\DesignPatterns\DesignPatterns\StateDP\bin\Debug\net6.0\StateDP.runtimeconfig.json
+D:\Courses\DesignPatterns\DesignPatterns\StateDP\bin\Debug\net6.0\StateDP.dll
+D:\Courses\DesignPatterns\DesignPatterns\StateDP\bin\Debug\net6.0\StateDP.pdb
+D:\Courses\DesignPatterns\DesignPatterns\StateDP\obj\Debug\net6.0\StateDP.csproj.AssemblyReference.cache
+D:\Courses\DesignPatterns\DesignPatterns\StateDP\obj\Debug\net6.0\StateDP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\DesignPatterns\DesignPatterns\StateDP\obj\Debug\net6.0\StateDP.AssemblyInfoInputs.cache
+D:\Courses\DesignPatterns\DesignPatterns\StateDP\obj\Debug\net6.0\StateDP.AssemblyInfo.cs
+D:\Courses\DesignPatterns\DesignPatterns\StateDP\obj\Debug\net6.0\StateDP.csproj.CoreCompileInputs.cache
+D:\Courses\DesignPatterns\DesignPatterns\StateDP\obj\Debug\net6.0\StateDP.dll
+D:\Courses\DesignPatterns\DesignPatterns\StateDP\obj\Debug\net6.0\refint\StateDP.dll
+D:\Courses\DesignPatterns\DesignPatterns\StateDP\obj\Debug\net6.0\StateDP.pdb
+D:\Courses\DesignPatterns\DesignPatterns\StateDP\obj\Debug\net6.0\StateDP.genruntimeconfig.cache
+D:\Courses\DesignPatterns\DesignPatterns\StateDP\obj\Debug\net6.0\ref\StateDP.dll

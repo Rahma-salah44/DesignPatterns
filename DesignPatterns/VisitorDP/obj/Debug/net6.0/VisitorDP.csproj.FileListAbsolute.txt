@@ -1,0 +1,15 @@
+D:\Courses\DesignPatterns\DesignPatterns\VisitorDP\bin\Debug\net6.0\VisitorDP.exe
+D:\Courses\DesignPatterns\DesignPatterns\VisitorDP\bin\Debug\net6.0\VisitorDP.deps.json
+D:\Courses\DesignPatterns\DesignPatterns\VisitorDP\bin\Debug\net6.0\VisitorDP.runtimeconfig.json
+D:\Courses\DesignPatterns\DesignPatterns\VisitorDP\bin\Debug\net6.0\VisitorDP.dll
+D:\Courses\DesignPatterns\DesignPatterns\VisitorDP\bin\Debug\net6.0\VisitorDP.pdb
+D:\Courses\DesignPatterns\DesignPatterns\VisitorDP\obj\Debug\net6.0\VisitorDP.csproj.AssemblyReference.cache
+D:\Courses\DesignPatterns\DesignPatterns\VisitorDP\obj\Debug\net6.0\VisitorDP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\DesignPatterns\DesignPatterns\VisitorDP\obj\Debug\net6.0\VisitorDP.AssemblyInfoInputs.cache
+D:\Courses\DesignPatterns\DesignPatterns\VisitorDP\obj\Debug\net6.0\VisitorDP.AssemblyInfo.cs
+D:\Courses\DesignPatterns\DesignPatterns\VisitorDP\obj\Debug\net6.0\VisitorDP.csproj.CoreCompileInputs.cache
+D:\Courses\DesignPatterns\DesignPatterns\VisitorDP\obj\Debug\net6.0\VisitorDP.dll
+D:\Courses\DesignPatterns\DesignPatterns\VisitorDP\obj\Debug\net6.0\refint\VisitorDP.dll
+D:\Courses\DesignPatterns\DesignPatterns\VisitorDP\obj\Debug\net6.0\VisitorDP.pdb
+D:\Courses\DesignPatterns\DesignPatterns\VisitorDP\obj\Debug\net6.0\VisitorDP.genruntimeconfig.cache
+D:\Courses\DesignPatterns\DesignPatterns\VisitorDP\obj\Debug\net6.0\ref\VisitorDP.dll

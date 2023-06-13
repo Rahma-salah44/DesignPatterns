@@ -1,0 +1,15 @@
+D:\Courses\DesignPatterns\DesignPatterns\Template MethodDP\bin\Debug\net6.0\Template MethodDP.exe
+D:\Courses\DesignPatterns\DesignPatterns\Template MethodDP\bin\Debug\net6.0\Template MethodDP.deps.json
+D:\Courses\DesignPatterns\DesignPatterns\Template MethodDP\bin\Debug\net6.0\Template MethodDP.runtimeconfig.json
+D:\Courses\DesignPatterns\DesignPatterns\Template MethodDP\bin\Debug\net6.0\Template MethodDP.dll
+D:\Courses\DesignPatterns\DesignPatterns\Template MethodDP\bin\Debug\net6.0\Template MethodDP.pdb
+D:\Courses\DesignPatterns\DesignPatterns\Template MethodDP\obj\Debug\net6.0\Template MethodDP.csproj.AssemblyReference.cache
+D:\Courses\DesignPatterns\DesignPatterns\Template MethodDP\obj\Debug\net6.0\Template MethodDP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\DesignPatterns\DesignPatterns\Template MethodDP\obj\Debug\net6.0\Template MethodDP.AssemblyInfoInputs.cache
+D:\Courses\DesignPatterns\DesignPatterns\Template MethodDP\obj\Debug\net6.0\Template MethodDP.AssemblyInfo.cs
+D:\Courses\DesignPatterns\DesignPatterns\Template MethodDP\obj\Debug\net6.0\Template MethodDP.csproj.CoreCompileInputs.cache
+D:\Courses\DesignPatterns\DesignPatterns\Template MethodDP\obj\Debug\net6.0\Template MethodDP.dll
+D:\Courses\DesignPatterns\DesignPatterns\Template MethodDP\obj\Debug\net6.0\refint\Template MethodDP.dll
+D:\Courses\DesignPatterns\DesignPatterns\Template MethodDP\obj\Debug\net6.0\Template MethodDP.pdb
+D:\Courses\DesignPatterns\DesignPatterns\Template MethodDP\obj\Debug\net6.0\Template MethodDP.genruntimeconfig.cache
+D:\Courses\DesignPatterns\DesignPatterns\Template MethodDP\obj\Debug\net6.0\ref\Template MethodDP.dll
