@@ -1,0 +1,15 @@
+D:\Courses\DesignPatterns\DesignPatterns\FlyWeightDP\bin\Debug\net6.0\FlyWeightDP.exe
+D:\Courses\DesignPatterns\DesignPatterns\FlyWeightDP\bin\Debug\net6.0\FlyWeightDP.deps.json
+D:\Courses\DesignPatterns\DesignPatterns\FlyWeightDP\bin\Debug\net6.0\FlyWeightDP.runtimeconfig.json
+D:\Courses\DesignPatterns\DesignPatterns\FlyWeightDP\bin\Debug\net6.0\FlyWeightDP.dll
+D:\Courses\DesignPatterns\DesignPatterns\FlyWeightDP\bin\Debug\net6.0\FlyWeightDP.pdb
+D:\Courses\DesignPatterns\DesignPatterns\FlyWeightDP\obj\Debug\net6.0\FlyWeightDP.csproj.AssemblyReference.cache
+D:\Courses\DesignPatterns\DesignPatterns\FlyWeightDP\obj\Debug\net6.0\FlyWeightDP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\DesignPatterns\DesignPatterns\FlyWeightDP\obj\Debug\net6.0\FlyWeightDP.AssemblyInfoInputs.cache
+D:\Courses\DesignPatterns\DesignPatterns\FlyWeightDP\obj\Debug\net6.0\FlyWeightDP.AssemblyInfo.cs
+D:\Courses\DesignPatterns\DesignPatterns\FlyWeightDP\obj\Debug\net6.0\FlyWeightDP.csproj.CoreCompileInputs.cache
+D:\Courses\DesignPatterns\DesignPatterns\FlyWeightDP\obj\Debug\net6.0\FlyWeightDP.dll
+D:\Courses\DesignPatterns\DesignPatterns\FlyWeightDP\obj\Debug\net6.0\refint\FlyWeightDP.dll
+D:\Courses\DesignPatterns\DesignPatterns\FlyWeightDP\obj\Debug\net6.0\FlyWeightDP.pdb
+D:\Courses\DesignPatterns\DesignPatterns\FlyWeightDP\obj\Debug\net6.0\FlyWeightDP.genruntimeconfig.cache
+D:\Courses\DesignPatterns\DesignPatterns\FlyWeightDP\obj\Debug\net6.0\ref\FlyWeightDP.dll
